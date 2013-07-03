@@ -1,5 +1,7 @@
 <?php
 
+// added to git...
+
     $url = 'http://api.wunderground.com/api/82fdf29d7abafe2f/conditions/q/27011.json';
 
     $rrd_file = "/home/bs/temp.rrd";
